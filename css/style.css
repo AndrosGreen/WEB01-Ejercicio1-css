@@ -9,7 +9,8 @@ header {
 }
 header h2{
     text-align: center;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
+    margin-top: 5px;
 }
 .nav-links {
     background-color: aquamarine;
@@ -22,4 +23,33 @@ header h2{
     margin-top: 20rem;
     padding-top: 10px;
     padding-bottom: 10px;
+}
+main {
+    text-align: center;
+}
+.principal h1,h3,p {
+    margin-top: 2rem;
+}
+
+main h2 {
+    color: rgb(72, 177, 77);
+    margin-top: 2rem;
+}
+
+main p{
+    text-align: justify;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.logo-sistemas {
+    margin-top: 0.5rem;
+    width: 5rem;
+    border-radius: 50%;
+}
+
+ul {
+    text-align: justify;
+    margin-left: 2rem;
+    margin-right: 1rem;
 }
