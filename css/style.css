@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: rgb(86, 209, 92);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+header h2{
+    text-align: center;
+    margin-bottom: 5px;
+}
+.nav-links {
+    background-color: aquamarine;
+    height: auto;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+.nav-links a {
+    margin-left: 1rem;
+    margin-top: 20rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
